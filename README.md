@@ -38,7 +38,7 @@ smart-ac-control/
 
 ```bash
 # Clone atau salin file proyek
-git clone [<repo-url>](https://github.com/ClarisyaA/Smart-AC-Control-System.git)
+git clone [(https://github.com/ClarisyaA/Smart-AC-Control-System.git)]
 cd smart-ac-control
 
 # Install dependensi
