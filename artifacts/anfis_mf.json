@@ -1,0 +1,55 @@
+{
+  "deltaT_mf": {
+    "sangat_dingin": {
+      "center": -7.6979354164018075,
+      "sigma": 1.6621434088050708
+    },
+    "dingin": {
+      "center": -0.5568296385717542,
+      "sigma": 0.39778305244702544
+    },
+    "nyaman": {
+      "center": 0.3324636010465143,
+      "sigma": 0.06823589247341269
+    },
+    "panas": {
+      "center": 3.1915426679684917,
+      "sigma": 1.2301805020843533
+    },
+    "sangat_panas": {
+      "center": 12.019547161346352,
+      "sigma": 1.5537842598986626
+    }
+  },
+  "kl_mf": {
+    "rendah": {
+      "center": 29.661199924037813,
+      "sigma": 14.08031761102682
+    },
+    "sedang": {
+      "center": 42.5830633286653,
+      "sigma": 25.02754253988557
+    },
+    "tinggi": {
+      "center": 82.5,
+      "sigma": 6.25
+    }
+  },
+  "consequents": {
+    "sangat_dingin_rendah": 0.7359767741173098,
+    "sangat_dingin_sedang": 0.6085209570737191,
+    "sangat_dingin_tinggi": 0.5,
+    "dingin_rendah": 0.7819310148251805,
+    "dingin_sedang": 0.8336733987178555,
+    "dingin_tinggi": 0.5,
+    "nyaman_rendah": 0.0,
+    "nyaman_sedang": 0.0,
+    "nyaman_tinggi": 0.5,
+    "panas_rendah": 1.0,
+    "panas_sedang": 1.0,
+    "panas_tinggi": 0.5,
+    "sangat_panas_rendah": 0.14354486469796227,
+    "sangat_panas_sedang": 0.22370885291722117,
+    "sangat_panas_tinggi": 0.5
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "label": "Sangat Kecil  (Pop=5,  Gen=15)",
+    "pop": 5,
+    "gen": 15,
+    "rmse": 26.689219272261145,
+    "conv_gen": 15,
+    "var_akhir": 0.19863073161779066,
+    "waktu_s": 3.75,
+    "premature": true
+  },
+  {
+    "label": "Kecil         (Pop=10, Gen=20)",
+    "pop": 10,
+    "gen": 20,
+    "rmse": 28.104196198786013,
+    "conv_gen": 20,
+    "var_akhir": 0.0018844642974472962,
+    "waktu_s": 8.26,
+    "premature": false
+  },
+  {
+    "label": "Kecil-Sedang  (Pop=20, Gen=40)",
+    "pop": 20,
+    "gen": 40,
+    "rmse": 23.630855603280153,
+    "conv_gen": 9,
+    "var_akhir": 1.3777282806512263e-05,
+    "waktu_s": 37.62,
+    "premature": false
+  },
+  {
+    "label": "Sedang        (Pop=30, Gen=60)",
+    "pop": 30,
+    "gen": 60,
+    "rmse": 18.95028596577546,
+    "conv_gen": 12,
+    "var_akhir": 0.00011094620453004061,
+    "waktu_s": 89.41,
+    "premature": false
+  },
+  {
+    "label": "Standar \u2605     (Pop=60, Gen=100)",
+    "pop": 60,
+    "gen": 100,
+    "rmse": 18.229822396864485,
+    "conv_gen": 8,
+    "var_akhir": 0.00038019374795740036,
+    "waktu_s": 275.54,
+    "premature": false
+  },
+  {
+    "label": "Besar         (Pop=100,Gen=150)",
+    "pop": 100,
+    "gen": 150,
+    "rmse": 11.962455150020457,
+    "conv_gen": 6,
+    "var_akhir": 0.00010304227931900948,
+    "waktu_s": 680.22,
+    "premature": false
+  },
+  {
+    "label": "Pop\u2191 Gen\u2193     (Pop=100,Gen=20)",
+    "pop": 100,
+    "gen": 20,
+    "rmse": 19.032662938348434,
+    "conv_gen": 5,
+    "var_akhir": 0.012324447667707131,
+    "waktu_s": 96.43,
+    "premature": false
+  },
+  {
+    "label": "Pop\u2193 Gen\u2191     (Pop=5,  Gen=200)",
+    "pop": 5,
+    "gen": 200,
+    "rmse": 20.10438853470262,
+    "conv_gen": 28,
+    "var_akhir": 2.8749055623317562e-05,
+    "waktu_s": 38.39,
+    "premature": false
+  }
+]
